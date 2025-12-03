@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\18\\UnrealDbg\\28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|DbgkSysWin11\\Form11\\Form1.csproj|d:\\githubnew\\18\\unrealdbg\\28\\dbgksyswin11\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|DbgkSysWin11\\Form11\\Form1.csproj|solutionrelative:dbgksyswin11\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|UnrealDbg.csproj|d:\\githubnew\\18\\unrealdbg\\28\\vt_driver\\idt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|UnrealDbg.csproj|solutionrelative:vt_driver\\idt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|UnrealDbg.csproj|d:\\githubnew\\18\\unrealdbg\\28\\vt_driver\\driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62BD7D9A-C7FD-429E-936A-E4E82C59CDBD}|UnrealDbg.csproj|solutionrelative:vt_driver\\driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "idt.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\UnrealDbg\\28\\VT_Driver\\idt.cpp",
+              "RelativeDocumentMoniker": "VT_Driver\\idt.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\UnrealDbg\\28\\VT_Driver\\idt.cpp",
+              "RelativeToolTip": "VT_Driver\\idt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:40:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\18\\UnrealDbg\\28\\DbgkSysWin11\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "DbgkSysWin11\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\18\\UnrealDbg\\28\\DbgkSysWin11\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "DbgkSysWin11\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:40:16.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cpp",
+              "DocumentMoniker": "D:\\GithubNew\\18\\UnrealDbg\\28\\VT_Driver\\Driver.cpp",
+              "RelativeDocumentMoniker": "VT_Driver\\Driver.cpp",
+              "ToolTip": "D:\\GithubNew\\18\\UnrealDbg\\28\\VT_Driver\\Driver.cpp",
+              "RelativeToolTip": "VT_Driver\\Driver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T12:40:13.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
