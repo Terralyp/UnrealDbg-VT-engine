@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GithubNew\\18\\UnrealDbg\\28\\UnrealDbg.csproj": {}
+  },
+  "projects": {
+    "D:\\GithubNew\\18\\UnrealDbg\\28\\UnrealDbg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GithubNew\\18\\UnrealDbg\\28\\UnrealDbg.csproj",
+        "projectName": "UnrealDbg",
+        "projectPath": "D:\\GithubNew\\18\\UnrealDbg\\28\\UnrealDbg.csproj",
+        "packagesPath": "C:\\Users\\LW\\.nuget\\packages\\",
+        "outputPath": "D:\\GithubNew\\18\\UnrealDbg\\28\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net4.7": {
+            "framework": "net47",
+            "targetAlias": "net4.7",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net4.7": {
+          "framework": "net47",
+          "targetAlias": "net4.7",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
